@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pairuup-prod/static/css/main.7190d6f1.css",
+    "main.js": "/pairuup-prod/static/js/main.1b1a55e9.js",
+    "static/media/yummy.png": "/pairuup-prod/static/media/yummy.f92bdad73e1cdf415187.png",
+    "static/media/auth.png": "/pairuup-prod/static/media/auth.37295d021b5cef8939e8.png",
+    "static/media/basket.png": "/pairuup-prod/static/media/basket.ff047adbdb790e6130b7.png",
+    "static/media/about-person.png": "/pairuup-prod/static/media/about-person.bbfe761b029238dca3d8.png",
+    "static/media/vegs.png": "/pairuup-prod/static/media/vegs.1d632b7a990537743aac.png",
+    "static/media/meats.png": "/pairuup-prod/static/media/meats.a1a24c17213867f697f7.png",
+    "static/media/tomatos.png": "/pairuup-prod/static/media/tomatos.5c0e169ff1eafd8d47f1.png",
+    "static/media/order_success.png": "/pairuup-prod/static/media/order_success.e27b16d9fdca8aa5d76d.png",
+    "static/media/close.png": "/pairuup-prod/static/media/close.c145bfdf88dbe12011a7.png",
+    "index.html": "/pairuup-prod/index.html",
+    "main.7190d6f1.css.map": "/pairuup-prod/static/css/main.7190d6f1.css.map",
+    "main.1b1a55e9.js.map": "/pairuup-prod/static/js/main.1b1a55e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7190d6f1.css",
+    "static/js/main.1b1a55e9.js"
+  ]
+}
