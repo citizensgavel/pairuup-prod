@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pairuup-prod/static/css/main.7190d6f1.css",
-    "main.js": "/pairuup-prod/static/js/main.1b1a55e9.js",
+    "main.js": "/pairuup-prod/static/js/main.eb697a64.js",
     "static/media/yummy.png": "/pairuup-prod/static/media/yummy.f92bdad73e1cdf415187.png",
     "static/media/auth.png": "/pairuup-prod/static/media/auth.37295d021b5cef8939e8.png",
     "static/media/basket.png": "/pairuup-prod/static/media/basket.ff047adbdb790e6130b7.png",
@@ -13,10 +13,10 @@
     "static/media/close.png": "/pairuup-prod/static/media/close.c145bfdf88dbe12011a7.png",
     "index.html": "/pairuup-prod/index.html",
     "main.7190d6f1.css.map": "/pairuup-prod/static/css/main.7190d6f1.css.map",
-    "main.1b1a55e9.js.map": "/pairuup-prod/static/js/main.1b1a55e9.js.map"
+    "main.eb697a64.js.map": "/pairuup-prod/static/js/main.eb697a64.js.map"
   },
   "entrypoints": [
     "static/css/main.7190d6f1.css",
-    "static/js/main.1b1a55e9.js"
+    "static/js/main.eb697a64.js"
   ]
 }
