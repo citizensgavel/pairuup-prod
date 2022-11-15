@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/pairup2022/public_html/
+    - /bin/cp -r * $DEPLOYPATH
